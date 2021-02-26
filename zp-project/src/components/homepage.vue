@@ -15,7 +15,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'homepage',
   data () {
     return {
       msg: 'Welcome to my app',
